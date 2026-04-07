@@ -13,7 +13,7 @@ public sealed class ProductsController(ProductService productService) : Controll
     [HttpPost]
     public IActionResult Create([FromBody] CreateProductRequest request)
     {
-        var result = productService.CreateAsync(request);
+        var result = productService.Create(request);
         if (!result.IsSuccess)
         {
             return result.ErrorCode switch

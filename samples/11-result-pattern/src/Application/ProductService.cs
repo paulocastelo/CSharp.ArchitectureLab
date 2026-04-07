@@ -10,7 +10,7 @@ public sealed class ProductService
         new Product { Name = "Notebook", Sku = "RES-001", UnitPrice = 3200m }
     ];
 
-    public Result<ProductResponse> CreateAsync(CreateProductRequest request)
+    public Result<ProductResponse> Create(CreateProductRequest request)
     {
         if (_products.Any(product => product.Sku.Equals(request.Sku, StringComparison.OrdinalIgnoreCase)))
         {

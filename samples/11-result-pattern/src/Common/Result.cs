@@ -1,6 +1,6 @@
 namespace ResultPattern.Sample.Common;
 
-public class Result<T>
+public sealed class Result<T>
 {
     public bool IsSuccess { get; }
     public T? Value { get; }
