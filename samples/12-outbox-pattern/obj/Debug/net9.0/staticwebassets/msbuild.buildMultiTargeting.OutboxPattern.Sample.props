@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OutboxPattern.Sample.props" />
+</Project>

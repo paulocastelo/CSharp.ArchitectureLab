@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Fg7UEoL2jgSHj4/SS9vvy05VzBIvx7bG8sQPl5KGEFs=",
+  "Source": "Cqrs.Sample",
+  "BasePath": "_content/Cqrs.Sample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
