@@ -1,10 +1,3 @@
-C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.csproj.AssemblyReference.cache
-C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.GeneratedMSBuildEditorConfig.editorconfig
-C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.AssemblyInfoInputs.cache
-C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.AssemblyInfo.cs
-C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.csproj.CoreCompileInputs.cache
-C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.MvcApplicationPartsAssemblyInfo.cache
-C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.sourcelink.json
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\bin\Debug\net9.0\DtoMapping.Sample.staticwebassets.endpoints.json
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\bin\Debug\net9.0\DtoMapping.Sample.exe
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\bin\Debug\net9.0\DtoMapping.Sample.deps.json
@@ -16,7 +9,14 @@ C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\bin\Debug
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.csproj.AssemblyReference.cache
+C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.AssemblyInfoInputs.cache
+C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.AssemblyInfo.cs
+C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.csproj.CoreCompileInputs.cache
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.MvcApplicationPartsAssemblyInfo.cs
+C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.MvcApplicationPartsAssemblyInfo.cache
+C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\DtoMapping.Sample.sourcelink.json
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\scopedcss\bundle\DtoMapping.Sample.styles.css
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\staticwebassets.build.json
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\03-dto-mapping\obj\Debug\net9.0\staticwebassets.development.json

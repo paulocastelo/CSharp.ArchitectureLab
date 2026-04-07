@@ -1,0 +1,26 @@
+# Build artifacts
+**/bin/
+**/obj/
+
+# Test results and coverage
+**/TestResults/
+**/coverage/
+*.coverage
+*.trx
+
+# Local databases and logs
+*.db
+*.db-shm
+*.db-wal
+logs/
+*.log
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db

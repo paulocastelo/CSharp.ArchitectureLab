@@ -1,9 +1,3 @@
-C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.GeneratedMSBuildEditorConfig.editorconfig
-C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.AssemblyInfoInputs.cache
-C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.AssemblyInfo.cs
-C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.csproj.CoreCompileInputs.cache
-C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.MvcApplicationPartsAssemblyInfo.cache
-C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.sourcelink.json
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\bin\Debug\net9.0\DependencyInjection.Sample.staticwebassets.endpoints.json
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\bin\Debug\net9.0\DependencyInjection.Sample.exe
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\bin\Debug\net9.0\DependencyInjection.Sample.deps.json
@@ -15,7 +9,13 @@ C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.csproj.AssemblyReference.cache
+C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.AssemblyInfoInputs.cache
+C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.AssemblyInfo.cs
+C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.csproj.CoreCompileInputs.cache
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.MvcApplicationPartsAssemblyInfo.cs
+C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.MvcApplicationPartsAssemblyInfo.cache
+C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\DependencyInjection.Sample.sourcelink.json
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\scopedcss\bundle\DependencyInjection.Sample.styles.css
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\staticwebassets.build.json
 C:\projetos\GitPortfolio\CSharp.ArchitectureLab\samples\01-dependency-injection\obj\Debug\net9.0\staticwebassets.development.json
