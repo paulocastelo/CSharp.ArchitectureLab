@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\AuthBasics.Sample.props" />
-</Project>

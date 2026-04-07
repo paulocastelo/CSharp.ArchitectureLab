@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ErrorHandling.Sample.props" />
-</Project>

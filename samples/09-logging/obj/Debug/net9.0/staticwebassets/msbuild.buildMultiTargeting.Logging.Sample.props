@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Logging.Sample.props" />
-</Project>

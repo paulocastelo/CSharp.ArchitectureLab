@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Cqrs.Sample.props" />
-</Project>
